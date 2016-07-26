@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE DxO_Preset>
+<Presets>
+<Preset id="{cf17e47e-16dc-4d52-ad54-ea6634f622d0}" type="Custom" date="1447175212250" name="Agfa APX 25 Portrait" version="4">
+<Tags>
+<Tag name="Custom"/>
+</Tags>
+<IDCard date="2015-11-10T17:06:52Z" creator="Moi"><![CDATA[]]></IDCard>
+<Param value="BWPreset" name="PresetType"/>
+<Param value="0" name="ArtisticVignettingCornerAttenuation"/>
+<Param value="50" name="VignettedBlurTransition"/>
+<Param value="100" name="LowlightToningIntensity"/>
+<Param value="false" name="FramingOutside"/>
+<Param value="0.5" name="EdgeTexturingOpacity"/>
+<Param value="Vignette" name="VignettedBlurMode"/>
+<Param value="value = {&#xa;&#x9;0,&#xa;&#x9;0,&#xa;&#x9;1,&#xa;&#x9;1,&#xa;}&#xa;" name="ToneCurveBluePoints"/>
+<Param value="50" name="ArtisticVignettingRoundness"/>
+<Param value="100" name="ColorRenderingIntensity"/>
+<Param value="23" name="ColorModeContrast"/>
+<Param value="0" name="ChannelMixerCyan"/>
+<Param value="50" name="ContrastEnhancementGlobalIntensity"/>
+<Param value="24x36" name="GrainFilmFormat"/>
+<Param value="0" name="VignettedBlurRadius"/>
+<Param value="100" name="LightingV2LocalContrastAmount"/>
+<Param value="0.5" name="HighlighsLowlightsSeparation"/>
+<Param value="0" name="ChannelMixerGreen"/>
+<Param value="100" name="GrainIntensity"/>
+<Param value="true" name="NoiseCustomActive"/>
+<Param value="0" name="FramingSeed"/>
+<Param value="0" name="ArtisticVignettingTransition"/>
+<Param value="1" name="GrainSize"/>
+<Param value="0" name="ContrastEnhancementHighlightIntensity"/>
+<Param value="false" name="TexturingApplyToning"/>
+<Param value="0" name="ContrastEnhancementLowlightIntensity"/>
+<Param value="Random" name="EdgeTexturingPosition"/>
+<Param value="0" name="ChannelMixerBlue"/>
+<Param value="100" name="HighlightToningIntensity"/>
+<Param value="100" name="VignettedBlurVignetteSize"/>
+<Param value="50" name="VignettedBlurRoundness"/>
+<Param value="0.25" name="FramingScaleFactor"/>
+<Param value="0" name="ChannelMixerMagenta"/>
+<Param value="false" name="FramingApplyToning"/>
+<Param value="0.5" name="TexturingOpacity"/>
+<Param value="0" name="ChannelMixerYellow"/>
+<Param value="100" name="ColorModeFilterIntensity"/>
+<Param value="AgfaAPX25" name="GrainType"/>
+<Param value="value = {&#xa;&#x9;0,&#xa;&#x9;0,&#xa;&#x9;1,&#xa;&#x9;1,&#xa;}&#xa;" name="ToneCurveGreenPoints"/>
+<Param value="value = {&#xa;&#x9;0,&#xa;&#x9;0,&#xa;&#x9;1,&#xa;&#x9;1,&#xa;}&#xa;" name="ToneCurveMasterPoints"/>
+<Param value="0" name="EdgeTexturingSeed"/>
+<Param value="false" name="EdgeTexturingApplyToning"/>
+<Param value="0" name="ColorModeSaturation"/>
+<Param value="value = {&#xa;&#x9;0.5,&#xa;&#x9;0.5,&#xa;}&#xa;" name="VignettedBlurCenterPoint"/>
+<Param value="50" name="ArtisticVignettingMidFieldAttenuation"/>
+<Param value="value = {&#xa;&#x9;0,&#xa;&#x9;0,&#xa;&#x9;1,&#xa;&#x9;1,&#xa;}&#xa;" name="ToneCurveRedPoints"/>
+<Param value="AgfaAPX25" name="ColorRenderingType"/>
+<Param value="0" name="ContrastEnhancementMidlightIntensity"/>
+<Param value="true" name="ColorIntentAutoActive"/>
+<Param value="0" name="VignettedBlurBlendFactor"/>
+<Param value="0.5" name="ExposureBias"/>
+<Param value="0" name="ChannelMixerRed"/>
+<Param value="0" name="VibrancyIntensity"/>
+<Param value="value = {&#xa;&#x9;0.5,&#xa;&#x9;0.5,&#xa;}&#xa;" name="ArtisticVignettingCenterPoint"/>
+<Param value="0" name="TexturingSeed"/>
+<Param value="true" name="DCVCustomActive"/>
+</Preset>
+</Presets>
